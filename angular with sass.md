@@ -11,6 +11,8 @@
           "styles.scss"
         ],
     "defaults": {
-      "styleExt": "scsss",
+      "styleExt": "scss",
       "component": {}
     }
+    
+    以及 .scss文件，详情请查阅sass官方API。：）
